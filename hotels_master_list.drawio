@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T14:32:18.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="otF1e6cmJXvYRJPOtOOg" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T14:47:34.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="ztnXjt14ma_GvyCiVJoa" version="18.0.1" type="github">
   <diagram id="ZM02eF8HevP2FdQzsevM" name="Page-1">
     <mxGraphModel dx="1038" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -162,6 +162,9 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LARc6V38f5XMLzHmHWC5-42" value="&lt;ul&gt;&lt;li&gt;gwg_hotel_id&lt;/li&gt;&lt;li&gt;hotel_name&lt;/li&gt;&lt;li&gt;reservation_email&lt;/li&gt;&lt;li&gt;sales_email&lt;/li&gt;&lt;/ul&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
