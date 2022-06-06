@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T13:32:49.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="19.0.0" etag="w2ZYbIKi40RcXaiGHpOa" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T13:33:57.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="19.0.0" etag="8Za5JicSx6y7f1zVz1CE" type="github">
   <diagram id="ZM02eF8HevP2FdQzsevM" name="Page-1">
-    <mxGraphModel dx="1038" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LARc6V38f5XMLzHmHWC5-42" value="&lt;ul&gt;&lt;li&gt;gwg_hotel_id&lt;/li&gt;&lt;li&gt;hotel_name&lt;/li&gt;&lt;li&gt;email_sales&lt;/li&gt;&lt;li&gt;email_rsrv&lt;/li&gt;&lt;/ul&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;align=left;" parent="1" vertex="1">
-          <mxGeometry x="750" y="60" width="160" height="140" as="geometry" />
+          <mxGeometry x="82" y="636" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2" value="country" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="200" width="180" height="100" as="geometry" />
@@ -426,8 +426,8 @@
         <mxCell id="0Vw5ni3r65lr5wO92ovn-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;elbow=vertical;" edge="1" parent="1" source="0Vw5ni3r65lr5wO92ovn-68" target="0Vw5ni3r65lr5wO92ovn-103">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="636" y="73" />
-              <mxPoint x="636" y="452" />
+              <mxPoint x="627" y="73" />
+              <mxPoint x="627" y="422" />
             </Array>
           </mxGeometry>
         </mxCell>
