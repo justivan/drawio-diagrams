@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T16:54:29.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7rgaN0GthCHkhHiBIHoy" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T16:55:31.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SeQ0wU-RmR1n7imXDIKG" version="20.7.4" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2519" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="nBvAZp38_XU3WkDMqago-43" value="&lt;div style=&quot;&quot;&gt;&amp;nbsp;immediate action&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;align=left;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;fontSize=9;labelPosition=right;fontStyle=2" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="20" y="50" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="nBvAZp38_XU3WkDMqago-76" value="record losses if there&#39;s any." style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;labelBackgroundColor=none;fontSize=9;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="550" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="Loading Issue" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
